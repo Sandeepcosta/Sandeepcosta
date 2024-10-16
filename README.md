@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sandeepcosta
+- 👋 Hi, I’m Sandeep
 - 👀 I’m interested in Data Science and Gen AI
 - 🌱 I’m working as a Software Engineer.
 - 💞️ I’m looking to collaborate on various Machine Learning and Deep Learning projects.
